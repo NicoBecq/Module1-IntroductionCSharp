@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\TP3 TVA\TP3 TVA\bin\Debug\TP3 TVA.exe.config
+C:\Users\Dell\source\repos\TP3 TVA\TP3 TVA\bin\Debug\TP3 TVA.exe
+C:\Users\Dell\source\repos\TP3 TVA\TP3 TVA\bin\Debug\TP3 TVA.pdb
+C:\Users\Dell\source\repos\TP3 TVA\TP3 TVA\obj\Debug\TP3 TVA.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\TP3 TVA\TP3 TVA\obj\Debug\TP3 TVA.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TP3 TVA\TP3 TVA\obj\Debug\TP3 TVA.exe
+C:\Users\Dell\source\repos\TP3 TVA\TP3 TVA\obj\Debug\TP3 TVA.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Exeercice8\Exeercice8\bin\Debug\Exeercice8.exe.config
+C:\Users\Dell\source\repos\Exeercice8\Exeercice8\bin\Debug\Exeercice8.exe
+C:\Users\Dell\source\repos\Exeercice8\Exeercice8\bin\Debug\Exeercice8.pdb
+C:\Users\Dell\source\repos\Exeercice8\Exeercice8\obj\Debug\Exeercice8.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Exeercice8\Exeercice8\obj\Debug\Exeercice8.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Exeercice8\Exeercice8\obj\Debug\Exeercice8.exe
+C:\Users\Dell\source\repos\Exeercice8\Exeercice8\obj\Debug\Exeercice8.pdb
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exeercice8\Exeercice8\bin\Debug\Exeercice8.exe.config
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exeercice8\Exeercice8\bin\Debug\Exeercice8.exe
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exeercice8\Exeercice8\bin\Debug\Exeercice8.pdb
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exeercice8\Exeercice8\obj\Debug\Exeercice8.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exeercice8\Exeercice8\obj\Debug\Exeercice8.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exeercice8\Exeercice8\obj\Debug\Exeercice8.exe
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exeercice8\Exeercice8\obj\Debug\Exeercice8.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exercice4\Exercice4\bin\Debug\Exercice4.exe.config
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exercice4\Exercice4\bin\Debug\Exercice4.exe
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exercice4\Exercice4\bin\Debug\Exercice4.pdb
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exercice4\Exercice4\obj\Debug\Exercice4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exercice4\Exercice4\obj\Debug\Exercice4.exe
+C:\Users\Dell\source\repos\Partie 4 - Les boucles\Exercice4\Exercice4\obj\Debug\Exercice4.pdb

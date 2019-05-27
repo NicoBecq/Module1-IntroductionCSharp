@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Exercice7\Exercice7\bin\Debug\Exercice7.exe.config
+C:\Users\Dell\source\repos\Exercice7\Exercice7\bin\Debug\Exercice7.exe
+C:\Users\Dell\source\repos\Exercice7\Exercice7\bin\Debug\Exercice7.pdb
+C:\Users\Dell\source\repos\Exercice7\Exercice7\obj\Debug\Exercice7.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Exercice7\Exercice7\obj\Debug\Exercice7.exe
+C:\Users\Dell\source\repos\Exercice7\Exercice7\obj\Debug\Exercice7.pdb

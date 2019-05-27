@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Exercice8\Exercice8\bin\Debug\Exercice8.exe.config
+C:\Users\Dell\source\repos\Exercice8\Exercice8\bin\Debug\Exercice8.exe
+C:\Users\Dell\source\repos\Exercice8\Exercice8\bin\Debug\Exercice8.pdb
+C:\Users\Dell\source\repos\Exercice8\Exercice8\obj\Debug\Exercice8.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Exercice8\Exercice8\obj\Debug\Exercice8.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Exercice8\Exercice8\obj\Debug\Exercice8.exe
+C:\Users\Dell\source\repos\Exercice8\Exercice8\obj\Debug\Exercice8.pdb

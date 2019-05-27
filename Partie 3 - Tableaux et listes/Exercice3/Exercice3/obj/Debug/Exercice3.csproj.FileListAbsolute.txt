@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Exercice3\Exercice3\bin\Debug\Exercice3.exe.config
+C:\Users\Dell\source\repos\Exercice3\Exercice3\bin\Debug\Exercice3.exe
+C:\Users\Dell\source\repos\Exercice3\Exercice3\bin\Debug\Exercice3.pdb
+C:\Users\Dell\source\repos\Exercice3\Exercice3\obj\Debug\Exercice3.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Exercice3\Exercice3\obj\Debug\Exercice3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Exercice3\Exercice3\obj\Debug\Exercice3.exe
+C:\Users\Dell\source\repos\Exercice3\Exercice3\obj\Debug\Exercice3.pdb
+C:\Users\Dell\source\repos\Partie 3 - Tableaux et listes\Exercice3\Exercice3\bin\Debug\Exercice3.exe.config
+C:\Users\Dell\source\repos\Partie 3 - Tableaux et listes\Exercice3\Exercice3\bin\Debug\Exercice3.exe
+C:\Users\Dell\source\repos\Partie 3 - Tableaux et listes\Exercice3\Exercice3\bin\Debug\Exercice3.pdb
+C:\Users\Dell\source\repos\Partie 3 - Tableaux et listes\Exercice3\Exercice3\obj\Debug\Exercice3.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Partie 3 - Tableaux et listes\Exercice3\Exercice3\obj\Debug\Exercice3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Partie 3 - Tableaux et listes\Exercice3\Exercice3\obj\Debug\Exercice3.exe
+C:\Users\Dell\source\repos\Partie 3 - Tableaux et listes\Exercice3\Exercice3\obj\Debug\Exercice3.pdb
